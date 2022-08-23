@@ -1,0 +1,13 @@
+{
+	"main": "html/xiaoxin.html",
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "xxjqb",
+		  "explain": "小新剪切板",
+			"cmds":["小新剪切板","剪切板"]
+		}
+	]
+
+}
